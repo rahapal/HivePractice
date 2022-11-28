@@ -15,6 +15,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# [Hive](https://docs.hivedb.dev/#/) `#FFFFFF`
+# [`#FFFFFF` Hive](https://docs.hivedb.dev/#/) `#FFFFFF`
 
 Hive is a local NoSQL database package for flutter.
